@@ -1,0 +1,3 @@
+<b>Depression-Assesment-Using-Genetic-algorithm</b>
+
+This project focuses on improving depression assessment by combining multiple Self-Assessment Questionnaires (SAQs)—Beck Depression Inventory (BDI), CES-D, and HAM-D—with advanced feature selection techniques, including Genetic Algorithms, Filter (FDR), and Wrapper Methods. The goal is to enhance diagnostic accuracy while reducing subjectivity, time, and complexity in mental health screening. The collected data is anonymized to ensure ethical compliance, and a user-friendly application is being developed to assist clinicians in diagnosis. The proposed method achieves 96% accuracy, outperforming traditional approaches like standalone Genetic Algorithms (86%), FDR (82%), and Wrapper Methods (89%).
